@@ -18,8 +18,7 @@ module.exports = {
     })],
     devServer: {
         historyApiFallback: true,
-        compress: true,
-        disableHostCheck: true
+        
     },
     externals: {
         // global app config object
