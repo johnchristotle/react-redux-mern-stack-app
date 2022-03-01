@@ -17,7 +17,8 @@ module.exports = {
         template: './src/index.html'
     })],
     devServer: {
-        historyApiFallback: true
+        compress: true,
+    disableHostCheck: true,   // That solved it
     },
     externals: {
         // global app config object
