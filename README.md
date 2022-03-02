@@ -39,14 +39,6 @@ Steps:
 - Configure NGINX to serve API and front-end 
 - Test the MERN Stack app in a browser
 
-## 4. Run on Gitpod ##
-
-To view this project live on Gitpod, follow these steps:
-
-1. create an account in ``` gitpod.io ```
-2. after ceating account, click this link to deploy https://gitpod.io/#github.com/johnchristotle/react-redux-mern-stack-app
-
-
 ## Author
 
 Christotle Agholor (c) 2022
