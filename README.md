@@ -1,4 +1,4 @@
-# Getting Started with This Great App #
+# Getting Started with This MERN Stack App #
 
 This project was bootstrapped with [Create React App](https://github.com/johnchristotle/react-redux-mern-stack-app).
 
